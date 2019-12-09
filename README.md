@@ -1,5 +1,4 @@
-Este é um simples exemplo de uma página.
-Tem como base apenas a aprendizagem.
+Este é um simples exemplo de uma página e tem como objetivo apenas a aprendizagem.
 
 A base para este modelo foi tirada do canal "Online Tutoriais"
 
