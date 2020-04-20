@@ -1,4 +1,6 @@
 # Card Hover Effects
 Este é um simples exemplo de uma página e tem como objetivo apenas a aprendizagem.
 
-A base para este modelo foi tirada do canal ["Online Tutoriais"](https://www.youtube.com/watch?v=EZqhWu8GJ6U)
+![Index](/images/index.png)
+
+Este modelo foi feito com base no vídeo [CSS Card Hover Effects | Html & CSS](https://www.youtube.com/watch?v=EZqhWu8GJ6U) do canal [__Online Tutoriais__](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog).
